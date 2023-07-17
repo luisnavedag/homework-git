@@ -7,3 +7,11 @@ function laCajaDePandora(numero){
         return numero.toString(16);
       }
 }
+
+function David() {
+    return {
+        name: "David Olivo",
+        age: 21,
+        nationality: "Venezuelan"
+    }
+}
